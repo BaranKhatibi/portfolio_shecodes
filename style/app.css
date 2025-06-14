@@ -8,7 +8,6 @@
   font-style: normal;
 } */
 
-
 /* 
 // <weight>: Use a value from 100 to 900
 // <uniquifier>: Use a unique and descriptive class name
@@ -22,22 +21,16 @@
     "wdth" 100;
 } */
 
-
-body {
-    background-color: red;
-}
-
 h1 {
-    color: white;
-    
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
+  color: white;
+
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
 }
 
 p {
-    color: white;
-    font-size: 24px;
-     font-family: "Montserrat", sans-serif;
-    font-weight: 100;
-
+  color: white;
+  font-size: 24px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
 }
