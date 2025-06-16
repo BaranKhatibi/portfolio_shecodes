@@ -6,6 +6,7 @@
 body {
   font-family: var(--default-font);
   background-color: #202020;
+  /* background-color: red; */
 }
 
 h1 {
@@ -59,4 +60,10 @@ h1 {
   background-size: 1440px 900px;
 
   padding: 276px 422px 301px 423px;
+}
+
+@media (max-width: 900px) {
+  .hero {
+    background-size: no-repeat;
+  }
 }
