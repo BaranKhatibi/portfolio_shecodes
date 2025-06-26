@@ -24,7 +24,22 @@ body {
 }
 
 .about-section img {
-  border-radius: 4px;
-  display: block;
+  border-radius: 16px;
   padding: 16px 9px;
+}
+
+.about-section a {
+  font-size: 18px;
+  font-weight: 500;
+  padding: 18px 46px;
+  margin-top: 20px;
+  border-radius: 4px;
+  background-color: #6c63ff;
+  transition: 150ms ease-in-out;
+}
+
+.about-section a:hover {
+  color: #6c63ff;
+  border-color: #6c63ff;
+  background-color: #f9f7fe;
 }
