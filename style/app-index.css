@@ -47,7 +47,8 @@ h3 {
 }
 
 .hero {
-  padding: 276px 0 271px 0;
+  /* padding: 276px 0 271px 0; */
+  padding: 160px 20px;
   text-align: center;
   background-color: #f9f7fe;
 }
