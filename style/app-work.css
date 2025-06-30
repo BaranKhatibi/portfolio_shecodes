@@ -1,0 +1,29 @@
+:root {
+  --primary-font: "Poppins", sans-serif;
+  --secondary-font: "Playfair Display", serif;
+}
+
+body {
+  font-family: var(--primary-font);
+}
+
+.work-section {
+  padding: 160px 20px;
+}
+
+.work-section h1 {
+  font-size: 64px;
+  font-family: var(--secondary-font);
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.work-section h3 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.work-section p {
+  font-size: 14px;
+  font-weight: 400;
+}
